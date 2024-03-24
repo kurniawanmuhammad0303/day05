@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="quantity_hint">Enter quantity</string>
+    <string name="gold_membership">Gold</string>
+    <string name="silver_membership">Silver</string>
+    <string name="regular_membership">Regular</string>
+    <string name="process_button">Process</string>
+</resources>

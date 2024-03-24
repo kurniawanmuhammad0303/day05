@@ -1,0 +1,11 @@
+<resources>
+    <string name="welcome_message">Welcome</string>
+    <string name="thank_you_message">Thank You!</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="membership_type">Membership Type:</string>
+    <string name="item_code">Item Code:</string>
+    <string name="item_price">Item Price:</string>
+    <string name="total_price">Total Price:</string>
+    <string name="discount">Discount:</string>
+    <string name="final_price">Final Price:</string>
+</resources>

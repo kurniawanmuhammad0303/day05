@@ -1,0 +1,8 @@
+<resources>
+    <string name="name_hint">أدخل اسمك</string>
+    <string name="quantity_hint">أدخل الكمية</string>
+    <string name="gold_membership">ذهبي</string>
+    <string name="silver_membership">فضي</string>
+    <string name="regular_membership">عادي</string>
+    <string name="process_button">عملية</string>
+</resources>
